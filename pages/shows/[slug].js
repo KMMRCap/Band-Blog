@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import YTFrame from 'components/shows/YTFrame';
+import YTFrame from 'components/Shows/YTFrame';
 import LatesShowsBlock from 'components/Shows/LatestShowBlock';
 
 import connectToDb from 'database/db';
